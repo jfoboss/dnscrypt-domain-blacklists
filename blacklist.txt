@@ -9573,7 +9573,7 @@ koten.zone
 
 # Ignored duplicates: 705
 
-# Ignored entries due to the whitelist: 4
+# Ignored entries due to the whitelist: 5
 
 js.cdn.ac
 8iaxbnbk.accountant
@@ -22845,7 +22845,6 @@ oskale.ru
 ovtopli.ru
 owpawuk.ru
 owtezan.ru
-ozon.ru
 paradocs.ru
 pardina.ru
 pay-click.ru
