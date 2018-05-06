@@ -8,7 +8,7 @@ shellcat.ru
 
 ########## Blacklist from https://pgl.yoyo.org/adservers/serverlist.php ##########
 
-# Ignored duplicates: 218
+# Ignored duplicates: 219
 
 # Ignored entries due to the whitelist: 2
 
@@ -2576,8 +2576,6 @@ ynxp.co
 18818879699.com
 18cum.com
 191gm.com
-2000tours.com
-2012ui.com
 0001.2waky.com
 318x.com
 3231198.com
@@ -2919,7 +2917,6 @@ honghuamm.com
 hsmsxx.com
 htxvcl.com
 huakaile88.com
-huaqiangutv.com
 huaqiaomaicai.com
 huatongchuye.com
 huaxiagongzhu.com
@@ -2980,7 +2977,6 @@ jxcsteel.com
 go.jxvector.com
 jxy88.com
 jyhaijiao.com
-kakvsegda.com
 kalinston.com
 karlast.com
 kendingyou.com
@@ -3002,7 +2998,6 @@ ktoooo.com
 kumykoz.com
 kzhqzx.com
 paypal.com-resolution.center-ujpmq2vvcy7.l06v.com
-laiqukeji.com
 leferinktractors.com
 lejrvk.com
 lfcraft.com
@@ -5626,12 +5621,14 @@ webmine.cz
 1e6219e7c48b81a106ed.date
 1f5ba9b001ff69816dd1.date
 25cddf204bea2ed225d3.date
+2ea94ddc3e542a5d4f27.date
 2f106934890be9372e52.date
 2f3f6a0f63ef7b84f265.date
 32ecf7dbf123ea419051.date
 38ae13abdde428801d3f.date
 48faeb9ff2ef3ee28517.date
 4b4abb50b13fc4e01adc.date
+4f25d2074d564f5ce17d.date
 5423987a8b8335ff3839.date
 568636080ec8fab13041.date
 56d9daeea9005be8dcf8.date
@@ -5644,6 +5641,7 @@ webmine.cz
 753912c2e5560d428ba2.date
 7adaabef911292de74fb.date
 887b7dad669c94d37839.date
+9189316dfa8cc4235250.date
 a16e91bc824c8210b3b4.date
 a71a07d7859e915c92af.date
 a8b9ba629348d4f3f4bd.date
@@ -12590,6 +12588,7 @@ vibrant.co
 whitud.co
 wicktrown.co
 xpop.co
+z-gbtlfibnw.co
 004b17a0c349157de.com
 006a039c957c142bb.com
 007-gateway.com
@@ -12641,6 +12640,7 @@ banner.101xp.com
 1100i.com
 110f5a541d7.com
 11f976743800.com
+11x11.com
 1221e236c3f8703.com
 1298bab69bbc4.com
 13190546cd1dec9bbdc.com
@@ -12671,6 +12671,7 @@ player.1800coupon.com
 1elllwrite.com
 1empiredirect.com
 1f7de8569ea97f0614.com
+1fwjpdwguvqs.com
 1loop.com
 1nimo.com
 1phads.com
@@ -17614,6 +17615,7 @@ mzkhhjueazkn.com
 mznijqwjkqadk.com
 mzqxeqrmgzxv.com
 mzrhjbbikqm.com
+n123loi.com
 n130adserv.com
 n161adserv.com
 n388hkxg.com
@@ -18385,6 +18387,7 @@ partner.premiumdomains.com
 premiumhdv.com
 ad.premiumonlinemedia.com
 prenvifxzjuo.com
+presistart.com
 prestadsng.com
 prestoris.com
 prexista.com
@@ -18487,6 +18490,7 @@ push2check.com
 pushance.com
 pusherism.com
 pushmobilenews.com
+pushnative.com
 pushnest.com
 pussl10.com
 pussl11.com
@@ -21418,6 +21422,7 @@ germarked.info
 getfuneta.info
 gettipsz.info
 glumifo.info
+goclick.info
 gonomy.info
 goodadvertising.info
 govbusi.info
@@ -21647,6 +21652,7 @@ owlads.io
 proper.io
 pubwise.io
 rtk.io
+sprkl.io
 collector.viki.io
 weborama.io
 wma.io
@@ -21777,6 +21783,7 @@ underdog.media
 8ac8f9421ead46.men
 avajo.men
 bbballs.men
+bcdn.men
 e301e693eef041.men
 e673f8d923cd5e.men
 hlu9tseh.men
@@ -22098,6 +22105,7 @@ d3t2wca0ou3lqz.cloudfront.net
 d3t9ip55bsuxrf.cloudfront.net
 d3tdefw8pwfkbk.cloudfront.net
 d3ujids68p6xmq.cloudfront.net
+d3uqm14ppr8tkw.cloudfront.net
 d3vc1nm9xbncz5.cloudfront.net
 d5pvnbpawsaav.cloudfront.net
 d6bdy3eto8fyu.cloudfront.net
@@ -22676,6 +22684,7 @@ adtaily.pl
 adtotal.pl
 b117f8da23446a91387efea0e428392a.pl
 clickad.pl
+approp.pro
 aution.pro
 bellissimome.pro
 bravome.pro
@@ -22688,6 +22697,7 @@ personaleme.pro
 qlinks.pro
 queurow.pro
 rosemand.pro
+sensive.pro
 traviously.pro
 tweightment.pro
 unqpun.pro
@@ -31782,7 +31792,7 @@ trackersimulator.org
 
 ########## Blacklist from https://easylist-downloads.adblockplus.org/easylistchina.txt ##########
 
-# Ignored duplicates: 44
+# Ignored duplicates: 43
 
 123456.asia
 fpb1.chinacar.asia
@@ -32301,6 +32311,7 @@ bstatic.1kejian.com
 1x3x.com
 200218.com
 201071.com
+2012ui.com
 2013sh.com
 1.201980.com
 210189.com
@@ -40343,7 +40354,6 @@ adserver.sabcnews.co.za
 # Ignored duplicates: 1
 
 bftakdpbwltyhe.bid
-dtlcovcvrppjte.bid
 hunpxgvjqxtwrok.bid
 jhvkqdsk.bid
 laaampqsivfarfa.bid
@@ -40426,12 +40436,9 @@ dbyemen.com
 ddahmen.com
 ddotmen.com
 dlfamen.com
-dmdxsuxvlywxtlswclf.com
 ns1.dnsfor0.com
 dqyumiqslaemuixxak.com
 dtnwbks.com
-dxlrhalgceu.com
-echrepdvcd.com
 ecrimen.com
 edirhtuawurxlobk.com
 eegwxvadm.com
@@ -40463,11 +40470,8 @@ gacyzuz.com
 gafamen.com
 gasamen.com
 gatyfus.com
-gdprex.com
 gdpttpyvcuvav.com
-gejsyavxw.com
 genxmen.com
-ggfrsxllrfdcitginqa.com
 ggiaba.com
 gherhfhofm.com
 gjvoemsjvb.com
@@ -40518,6 +40522,7 @@ jpmtaqtu.com
 jsttajpjtpqiu.com
 jswjfhumpudlhljnib.com
 jtinmen.com
+jumeik.com
 kaqumen.com
 kbodfwsbgfmoneuoj.com
 kebegvpl.com
@@ -40536,10 +40541,7 @@ lajlfdbqqr.com
 lawklepwvnoo.com
 ldexam.com
 lfqvgmphn.com
-likdvhtygomtplylmiw.com
 liyutu.com
-lkmkkblchefeibicfjl.com
-lkmlcore.com
 llcxijddrwun.com
 lnwomen.com
 lpjovdyw.com
@@ -40551,8 +40553,6 @@ lvwomen.com
 lwqmgevnftflytvbgs.com
 lxrymen.com
 lygygin.com
-lygynud.com
-lygysid.com
 lygysij.com
 lykyjux.com
 lykymox.com
@@ -40561,8 +40561,8 @@ lyvyjoj.com
 lyxymin.com
 mamitam.com
 maramit.com
+marotek.com
 mazemen.com
-mbcain.com
 mbleswoqkbfmhhsbh.com
 mdnaizofvm.com
 meeaexhvlnhfalqyrc.com
@@ -40570,10 +40570,10 @@ mingmen.com
 mochcckvjfboxocjjpf.com
 moltytl.com
 movimen.com
-mrthpcokvjc.com
 mtankfqv.com
 myramen.com
-navatim.com
+najisom.com
+ndarch.com
 nfwomen.com
 ngbclncfxjdsmmribt.com
 nhrnpnrpnyfgmsaj.com
@@ -40581,7 +40581,6 @@ nihillo.com
 nkootxbt.com
 nmrdnovjmcd.com
 novelon.com
-npcvnorvyhelagx.com
 ntmhavejb.com
 nvrnisdf.com
 nvwomen.com
@@ -40600,11 +40599,11 @@ ostlmen.com
 pbrejhhsdgtgjw.com
 pnhdqltkumbyhqyrtqi.com
 pomxgxxwomxmoqya.com
+pphigrppk.com
 pqatssxtdjqvjxpanwq.com
 prcgijpwvrl.com
 psxfljiwmxgnnag.com
 puvyjiq.com
-puvyxil.com
 pyysfwak.com
 qavemen.com
 qbqoxfujlbetfrjfh.com
@@ -40648,7 +40647,6 @@ sobamen.com
 sofengo.com
 sofimen.com
 sonimen.com
-specialist-travel.com
 ssecam.com
 ssofasuafn.com
 susumen.com
@@ -40676,7 +40674,9 @@ upwdodqrmjydqcys.com
 urizadek.com
 uxfmuptkvsqvj.com
 vbqyhprpdgum.com
+vehrhkpjorpyocu.com
 vfddknwlhrpoit.com
+vfjbsbxoqgdeayhu.com
 vktkpkqmlufmqwvvu.com
 vocoret.com
 vofymem.com
@@ -40699,7 +40699,6 @@ wcbjmxitybhaxdhxxob.com
 webumen.com
 wgfamen.com
 wglxvkpybhnxhfv.com
-wgwuhauaqcrx.com
 wliyfyudchpoipilob.com
 wlqlijchqz.com
 wlrfjgojtlqel.com
@@ -40760,7 +40759,6 @@ dogit.eu
 doran.eu
 doril.eu
 doxys.eu
-fobus.eu
 foden.eu
 fodex.eu
 foker.eu
@@ -40776,7 +40774,6 @@ gadap.eu
 gadar.eu
 gadic.eu
 galad.eu
-galek.eu
 galen.eu
 galep.eu
 galik.eu
@@ -40802,8 +40799,6 @@ hapoc.eu
 hjbhcoalgx.eu
 ijjsshatuadmd.eu
 lygus.eu
-lyken.eu
-lykil.eu
 lykon.eu
 lyman.eu
 lymos.eu
@@ -40815,20 +40810,24 @@ lyryx.eu
 lysen.eu
 lyset.eu
 lyxam.eu
+mabet.eu
+mabox.eu
 mages.eu
 makel.eu
 makes.eu
 makom.eu
 makot.eu
 makun.eu
-mamet.eu
 mamixikusah.eu
 mamon.eu
 marex.eu
 maros.eu
 marow.eu
+masen.eu
+masex.eu
 masum.eu
 maxel.eu
+nagal.eu
 najam.eu
 namax.eu
 namig.eu
@@ -40836,7 +40835,6 @@ nasim.eu
 navis.eu
 oakedtell.eu
 pufab.eu
-pufet.eu
 pujol.eu
 pumax.eu
 pumot.eu
@@ -40857,7 +40855,6 @@ simul.eu
 siseb.eu
 sisol.eu
 tucer.eu
-tunez.eu
 tuweb.eu
 tuzer.eu
 uxanolypvxsxtn.eu
@@ -40873,7 +40870,6 @@ vonik.eu
 vopogakakud.eu
 vowap.eu
 wtjpvbig.eu
-wyles.eu
 zugen.eu
 zukov.eu
 zusex.eu
@@ -40882,26 +40878,28 @@ dimaweb.info
 dimelaw.info
 fotorob.info
 marusic.info
-novodom.info
 qebevil.info
 qexonog.info
 videcam.info
+actionmaster.net
 actionnation.net
 angrypeople.net
 answerfinger.net
+ballfull.net
 battlepeople.net
 becomefamous.net
-callfree.net
 cealis.net
 chargemaster.net
 cigarettelikely.net
 cleanleader.net
 cleanpeople.net
-clearhistory.net
 clearpeople.net
 cornerpeople.net
 countryneedle.net
-daughterfather.net
+crowdalmost.net
+crowdvalue.net
+decemberblood.net
+decemberdaily.net
 englishstudent.net
 expectdirect.net
 expectwrite.net
@@ -40911,43 +40909,43 @@ familyaction.net
 familyriver.net
 fillhard.net
 fillonce.net
-foreignunderstand.net
-learnword.net
+freshvalue.net
+learnfree.net
+lifedaily.net
+lifefull.net
 machinedirect.net
 meguia.net
 muchshine.net
 pictureservice.net
-pictureunderstand.net
-plantform.net
+piecefree.net
 plantstudy.net
-pointfree.net
-pointother.net
+plantwall.net
 qumeia.net
 rightaction.net
 rightdirect.net
 rightriver.net
 rightservice.net
+rightspeak.net
 rightstudent.net
-ringfree.net
+rightwrite.net
+sensefree.net
 senseonce.net
 suddenservice.net
 suddenstudent.net
-takeblack.net
-takeform.net
+summermeeting.net
+takefree.net
 toreedge.net
 triesedge.net
-veryblack.net
+veryfree.net
 viewmake.net
-wellfree.net
-westfree.net
-whetherangry.net
+waitfree.net
+watervalue.net
 yourarmy.net
 youredge.net
 yourfeet.net
 yourfree.net
 yourloss.net
 yourshine.net
-yourstep.net
 youruncle.net
 ceigqweqwaywiqgu.org
 eiscawcsgiaemsco.org
@@ -40972,16 +40970,17 @@ udtwirqzhdm.yi.org
 wmvrlpvpqxu.yi.org
 xlfstaxlrui.yi.org
 zssdxcq.yi.org
-yglmdhbhgack.pro
-djvebxylxcop.ru
+lilxpjimbxj.pw
 auokskcvclatsprvfnrr.us
-csfsbdhwnimgbflpiauem.us
-gqrtvklv.us
+epxrxurvvpeh.us
+hdifulyaxvwvfdingfw.us
+jlljjytblwwltoumcvyfn.us
+puytqpnxwfneqtlouuwh.us
 
 
 ########## Blacklist from https://mirror1.malwaredomains.com/files/justdomains ##########
 
-# Ignored duplicates: 1672
+# Ignored duplicates: 1666
 
 absop.academy
 vusert.accountant
@@ -41705,6 +41704,7 @@ amazn.de-vorgangsnummer-secure-bb2.bid
 delta-intkey.bid
 diandianzu.bid
 digiiii.bid
+dtlcovcvrppjte.bid
 elminuto90.bid
 esse-project.bid
 executiveretreats.bid
@@ -43931,7 +43931,6 @@ shop.180fusion.com
 1a-consultants.com
 1ambu11.com
 1bancanetbanamex-ingreso.com
-1fwjpdwguvqs.com
 swell.1hpleft.com
 1jd482s14huqj2i9ssjx20v8jw.com
 paypal.de.1klas902f-lsod92.com
@@ -43974,6 +43973,7 @@ mpottgov0001-001-site1.1tempurl.com
 1xirsp17.com
 1yyju.com
 login.pavypal-activity.com.2-24021994.com
+2000tours.com
 www.2003xx.com
 2018halkbank.com
 2020closings.com
@@ -46566,6 +46566,7 @@ dwwgeneraltrading.com
 dxcrystal.com
 dxinxn.com
 dxipo.com
+dxlrhalgceu.com
 offline.dyd-pascal.com
 dylaa.com
 dynadiscount.com
@@ -46612,6 +46613,7 @@ ebwomancare.com
 ecaatasehir.com
 ecathleticpark.com
 eccltdco.com
+echrepdvcd.com
 ecig-ok.com
 ecolecampus.com
 ecomanyattahousing.com
@@ -47921,6 +47923,7 @@ www.huadianbeijing.com
 huagumei.com
 huangpai88.com
 huangxinran.com
+huaqiangutv.com
 huayangjd.com
 acces.hub-login.com
 toverifaccount.hub-login.com
@@ -48596,6 +48599,7 @@ kairee9188.com
 kaiwena.com
 kajlaraykaj.com
 kakase1.com
+kakvsegda.com
 kalamandalamsathyabhama.com
 kalashakako.com
 kalingadentalcare.com
@@ -48853,6 +48857,7 @@ laforetgardens.com
 lafugastereo.com
 lagilapar.com
 laglobetravel.com
+laiqukeji.com
 lakefrontvacationsuites.com
 lakenormanautorepair.com
 lakepointluxuryresort.com
@@ -60667,7 +60672,7 @@ zihotelsandtours.co.zw
 
 ########## Blacklist from https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt ##########
 
-# Ignored duplicates: 3780
+# Ignored duplicates: 3775
 
 # Ignored entries due to the whitelist: 5
 
@@ -68340,7 +68345,7 @@ amazon-sicherheit.kunden-ueberpruefung.xyz
 
 ########## Blacklist from https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt ##########
 
-# Ignored duplicates: 34746
+# Ignored duplicates: 34749
 
 # Ignored entries due to the whitelist: 6
 
@@ -112130,7 +112135,6 @@ allfontshere.press
 adnetwork.pro
 adpartner.pro
 altpool.pro
-approp.pro
 asdfg.pro
 asdfz.pro
 bestcase.pro
