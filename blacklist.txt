@@ -5868,7 +5868,7 @@ adsrv.iol.co.za
 
 ########## Blacklist from https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt ##########
 
-# Ignored duplicates: 53
+# Ignored duplicates: 50
 
 arprosports.com.ar
 fejsbuk.com.ba
@@ -5887,6 +5887,7 @@ sicken.cede.cl
 384756783900.cn
 3e1.cn
 4006868488.cn
+5-g.cn
 52yxg.cn
 981718.cn
 bioito.cn
@@ -6031,7 +6032,6 @@ dfclamp.com
 dgdaerxing.com
 dionneg.com
 djcalvin.com
-dortxn.com
 doushimm.com
 downloadfused.com
 downloadoc.com
@@ -6189,10 +6189,8 @@ down.tututool.com
 ujvmzzwsxzrd3.com
 upperdarby26.com
 utpsoxvninhi6.com
-vcbqxu.com
 verfer.com
 virtual-pcb.com
-volpefurniture.com
 vqlgli.com
 vra4.com
 walesedu.com
@@ -8918,6 +8916,7 @@ bufircation.ru
 buildbull.ru
 bukhaja.ru
 burburem.ru
+busncuy4dmiuurl.ru
 buy-link.ru
 buyfordreams.ru
 bwtvmnf9fxmvanw.ru
@@ -9729,6 +9728,7 @@ myjulia.ru
 mylifeblog24.ru
 mylitebro.ru
 myskybe.ru
+myteasers.ru
 mytochka.ru
 mytvblogs.ru
 mytvblogs24.ru
@@ -14978,6 +14978,7 @@ aiprvqqnhm.com
 airpush.com
 aitdwhmcvlm.com
 aiypulgy.com
+aizopowmtnho.com
 ajaeihzlcwvn.com
 ajfziqehnwvz.com
 ajgffcat.com
@@ -15958,6 +15959,7 @@ ckqpusmxvilv.com
 ckryzlnafwyd.com
 ckwpsghi.com
 ckxhoidrflu.com
+ckxyvauhqfuoin.com
 clarityray.com
 clash-media.com
 class64deal.com
@@ -16245,6 +16247,7 @@ cyberbidhost.com
 cybernetentertainment.com
 cybkhbkuobl.com
 cybmas.com
+cybzsdkmrqgy.com
 cygnus.com
 cymuxbcnhinm.com
 cyrirvvrn.com
@@ -17055,6 +17058,7 @@ widgets.fccinteractive.com
 fcfd5de4b3be3.com
 fcjhxlybaiab.com
 fcjnqpkrdglw.com
+fcjodgfpjiswa.com
 fcveilhtok.com
 fd008a057bb64c4.com
 fdbqwtqdgcsceh.com
@@ -17106,6 +17110,7 @@ fghtrrasovlsu.com
 fgkvpyrmkbap.com
 fglwxjklf.com
 fgmucsiirrsq.com
+fgnzizhe.com
 fgsjjpjhdlfthp.com
 fgvjjulaegidb.com
 fgwsjwiaqtjc.com
@@ -18633,6 +18638,7 @@ jzbskhgpivyl.com
 jzckyzvlxetror.com
 jzekquhmaxrk.com
 jzfzjss.com
+jzgtnetghdc.com
 jzlzdnvvktcf.com
 jzqharwtwqei.com
 jzurzhjqrp.com
@@ -37008,6 +37014,7 @@ yuxyz.com
 yuyyio.com
 a.yuzhainan.com
 ywbwsm.com
+ywrjgzs.com
 gg.yxdown.com
 yxhxs.com
 yxjad.com
@@ -37482,7 +37489,7 @@ ip.hivps.xyz
 
 ########## Blacklist from http://someonewhocares.org/hosts/hosts ##########
 
-# Ignored duplicates: 7969
+# Ignored duplicates: 7967
 
 # Ignored entries due to the whitelist: 12
 
@@ -43219,6 +43226,7 @@ aafgcvjyvxlosy.com
 aakamen.com
 aamizotw.com
 aarbvsrdnhhidhwk.com
+aaskmen.com
 absqvhpldvsmclt.com
 abwgyhuqwiz.com
 acasie.com
@@ -43226,7 +43234,6 @@ advjpbbhiwoccqa.com
 aeblrkyvqmk.com
 aftfjuclhvdubfeuqs.com
 ahcqoemxnlyslypato.com
-ahydqy.com
 aifamen.com
 aitlfdxgligxqow.com
 alivite.com
@@ -43627,7 +43634,6 @@ wwmpetrwryslk.com
 wwwomen.com
 wxsssfvmqi.com
 wyfamen.com
-xahdhb.com
 xfatmen.com
 xfdshaqjbfguhlcwnl.com
 xfiaiujixl.com
@@ -43660,6 +43666,7 @@ yvfokwky.com
 yvrktjohnvdb.com
 ywmumen.com
 ywphdckgaii.com
+ywssmy.com
 yyjiujeygdpkippa.com
 zdwomen.com
 zhaomen.com
@@ -43806,21 +43813,24 @@ videcam.info
 advancepeople.net
 advancepleasure.net
 almostpeople.net
+alwaysforward.net
 alwayspossible.net
 amountnumber.net
 amountpleasure.net
+applegarden.net
 applemaster.net
 aroundpeople.net
-articlefollow.net
+beautyforward.net
 beautyleader.net
 beautynumber.net
-brokenbridge.net
+becausebicycle.net
 buildingcover.net
 buildingfurther.net
 callhunt.net
 cealis.net
 chancemillion.net
 characterleader.net
+childrenbicycle.net
 childrenshore.net
 circlemaster.net
 circlenumber.net
@@ -43828,54 +43838,43 @@ classhistory.net
 classleader.net
 coverpeople.net
 desirearound.net
-desirekitchen.net
-doctorbridge.net
 doctorcompany.net
 doctorfinger.net
-doctorkitchen.net
 doctorshoulder.net
-doublebicycle.net
-eveningbridge.net
 familydollar.net
 fearworld.net
-leaddeal.net
 leadfeed.net
 learnfirst.net
-likrtook.net
+learniron.net
 meguia.net
 noseoctober.net
 outsidenature.net
 piecestood.net
 pointenjoy.net
-pointiron.net
 pointmoon.net
 pointshow.net
 pointworld.net
 prettycomplete.net
-prettyprobable.net
+rbdthqhciesq.net
+rightwagon.net
 ringrule.net
 ringworld.net
-stillbridge.net
 stillproud.net
 stillwagon.net
-storeboard.net
-storekitchen.net
 tablehunt.net
 tableoctover.net
 tableworld.net
-telifon.net
 theirunder.net
+viewearth.net
 viewfirst.net
-wellcome.net
 welldeal.net
 wellfeed.net
-welltaste.net
 westhorse.net
 westmoon.net
 westshow.net
+yourcome.net
 yourearth.net
 yourfirst.net
-paeignchojke.online
 ceigqweqwaywiqgu.org
 eiscawcsgiaemsco.org
 kuyuacgsiowawsqa.org
@@ -43900,19 +43899,12 @@ udtwirqzhdm.yi.org
 wmvrlpvpqxu.yi.org
 xlfstaxlrui.yi.org
 zssdxcq.yi.org
-bnkdymi.pw
-dpgbrdtbgwlabayc.pw
 ghlwtbwxqacxxunvdgalm.pw
 ixqbuuypgougnpa.pw
 jfwsscdulg.pw
 ndxylfpxuwowlhycfh.pw
-ownlfaeraoofvdr.pw
 plsvrbnrxrltkpvrft.pw
-rajjqkyesupya.pw
-vwsrbgtdomsjqwdpo.pw
 vxtcqwydyxxcotbcgey.pw
-wtwclrd.pw
-yvkpmov.pw
 kjlgekqdcapr.support
 cbyhyjal.top
 chgbqnefqf.top
@@ -43942,7 +43934,7 @@ ksxdarqf.us
 
 ########## Blacklist from https://mirror1.malwaredomains.com/files/justdomains ##########
 
-# Ignored duplicates: 1229
+# Ignored duplicates: 1226
 
 # Ignored entries due to the whitelist: 1
 
@@ -50903,6 +50895,7 @@ dormia143.com
 tax-refund-hmrc-id00233.com.dormoszip.com
 doroncreations.com
 dorothyn.com
+dortxn.com
 online-tsb-bank.dota-peru.com
 accountsmages.dotcloudapp.com
 dothansurgerycenter.com
@@ -58641,6 +58634,7 @@ bcpzoansegura-viabcp.vb-bc.com
 italy-amazon-sicurezza.vbasc.com
 vbswzm.com
 vbvserviios.com
+vcbqxu.com
 vcdssaj.com
 connect.secure.vdr35.com
 vechain-block.com
@@ -58854,6 +58848,7 @@ voicezofficial.com
 voirfichier-orange.com
 volam1vn.com
 paypalcom88gibinebscrcmdhomegeneraldispatch0db1f3842.voldrotan.com
+volpefurniture.com
 volzilainxs.com
 vonlotushausdogs.com
 voravan.com
@@ -69149,7 +69144,7 @@ zihotelsandtours.co.zw
 
 ########## Blacklist from https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt ##########
 
-# Ignored duplicates: 3074
+# Ignored duplicates: 3069
 
 # Ignored entries due to the whitelist: 5
 
@@ -76565,7 +76560,7 @@ amazon-sicherheit.kunden-ueberpruefung.xyz
 
 ########## Blacklist from https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt ##########
 
-# Ignored duplicates: 40038
+# Ignored duplicates: 40055
 
 # Ignored entries due to the whitelist: 6
 
@@ -124708,7 +124703,7 @@ middleportfreight.co.zw
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 16885
+# Ignored duplicates: 16916
 
 # Ignored entries due to the whitelist: 12
 
@@ -126008,6 +126003,7 @@ marvilias.com
 exacttarget.api.mashery.com
 masteroids.com
 masterpoker99.com
+client-api.matchinguu.com
 maxymiser.com
 mb4a.com
 mbww.com
