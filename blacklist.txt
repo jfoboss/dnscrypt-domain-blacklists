@@ -5897,7 +5897,7 @@ adsrv.iol.co.za
 
 ########## Blacklist from https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt ##########
 
-# Ignored duplicates: 32
+# Ignored duplicates: 31
 
 arprosports.com.ar
 sowellness.be
@@ -5909,7 +5909,6 @@ neepelsty.cz.cc
 peoria33884.cz.cc
 ziejpzrv.cz.cc
 ebara.cc
-gdeea.cc
 pdk.lcn.cc
 adfrut.cl
 sicken.cede.cl
@@ -5975,10 +5974,8 @@ amo122.com
 ancientroom.com
 annedouglas.com
 www.anticarredodolomiti.com
-apiparbion.com
 mandarin.aquamarineku.com
 argentinaglobalwines.com
-armazones.com
 secure-account-national-australia-bank.com.au-servive-customer-online.asiamusicme.com
 asj999.com
 av5k.com
@@ -6009,7 +6006,6 @@ trouble.cachetinvestments.com
 cadxiedan.com
 cctjly.com
 ccycny.com
-cpajump.centenr.com
 centralamericarealestateinvestment.com
 akuaba.chez.com
 leonarderickson.chez.com
@@ -6056,7 +6052,6 @@ gallerycrush.com
 gen-ever.com
 ghgmtcrluvghlwc91.com
 gjysjl.com
-globalnursesonline.com
 xzz.goodoboy.com
 gotoip55.com
 gqwhyjh.com
@@ -6079,7 +6074,6 @@ ideamasale.com
 im900.com
 indiatouragency.com
 innatek.com
-ivavitavoratavit.com
 izlinix.com
 jdcartoon.com
 jianyundc.com
@@ -6101,7 +6095,6 @@ llbb88.com
 llo123.com
 lpcloudsvr302.com
 lpmxp2026.com
-mail3x.com
 mainnetsoll.com
 mainstatserver.com
 man1234.com
@@ -6144,7 +6137,6 @@ baby.py.shangdu.com
 sharfiles.com
 simplequiltmaking.com
 www.soidc.com
-specialistups.com
 user53122.vs.speednames.com
 spyshredderscanner.com
 sukhshantisales.com
@@ -6192,7 +6184,6 @@ brandschutztechnik-hartmann.de
 corsa-cologne.de
 dinkelbrezel.de
 fchabkirchen-frauenberg.de
-lagrotta4u.de
 marco-behrendt.de
 ojakobi.de
 pornstar-candysue.de
@@ -6241,7 +6232,6 @@ deltagroup.kz
 fas.nirmala.life
 royalair.koom.ma
 malware-check.disconnect.me
-39m.net
 720movies.net
 911718.net
 animeonline.net
@@ -6326,7 +6316,7 @@ ya-googl.ws
 
 ########## Blacklist from https://easylist-downloads.adblockplus.org/advblock.txt ##########
 
-# Ignored duplicates: 1842
+# Ignored duplicates: 1841
 
 # Ignored entries due to the whitelist: 3
 
@@ -6565,6 +6555,7 @@ webmining.co
 4lucysu.com
 5393418948.com
 5d801e5dd1f4584a.com
+5dfbe7ad5ebcbc31.com
 5ikmih8avqhcbk.com
 5visions.com
 6c6580635061ded7.com
@@ -6752,6 +6743,7 @@ cdn8now.com
 cdn9now.com
 cdneurope.com
 cdnrefpa.com
+ce42d83343069a37.com
 celebratearrival.com
 cettenus.com
 chain-reaction-pro.com
@@ -10685,6 +10677,7 @@ adv.team
 28faeptq7.tech
 5z74awpmg7.tech
 gosj9ichlf.tech
+ree56vxln.tech
 rrnhb863j.tech
 rutor.tech
 tjlgfdfnk.tech
@@ -10966,7 +10959,7 @@ koten.zone
 
 ########## Blacklist from https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt ##########
 
-# Ignored duplicates: 869
+# Ignored duplicates: 870
 
 # Ignored entries due to the whitelist: 5
 
@@ -15787,6 +15780,7 @@ bzgwkxnjqjdz.com
 bzjtjfjteazqzmukjwhyzsaqdtouiopcmtmgdiytfdzboxdann.com
 bznclicks.com
 bznmgijglbpr.com
+bzotzfcbhomw.com
 bzqqaoeufrld.com
 bzsbtfiz.com
 bzyrhqbdldds.com
@@ -15938,6 +15932,7 @@ cfcloudcdn.com
 cfdmkifknsjt.com
 cfgr1.com
 cfhkiriics.com
+cfpqhrfpccmpq.com
 cfskcqrwbog.com
 cfvfjsobudwrsn.com
 cfyvrgvopaejx.com
@@ -15953,6 +15948,7 @@ chango.com
 chargeplatform.com
 charltonmedia.com
 che-ka.com
+checkabil.com
 checkoutfree.com
 chenaladenews.com
 cherytso.com
@@ -16703,6 +16699,7 @@ duvyjbofwfqh.com
 duxyrxhfwilv.com
 dvdbgvgagk.com
 dvdkinoteatr.com
+dvdyicsndqbqo.com
 dvgvwatnnqsmll.com
 dvsrlrnpyxwv.com
 dvzyppnmfgtr.com
@@ -16912,6 +16909,7 @@ emrumkgmdmdq.com
 emvdlnwph.com
 emxfructugey.com
 emzotevsto.com
+emzxewhgjt.com
 encruses.com
 enfhddbnariw.com
 enfupatujiqb.com
@@ -17015,6 +17013,7 @@ media.eurolive.com
 europacash.com
 banner.europacasino.com
 eutklhuazxlt.com
+euuikdao.com
 euxisszoyader.com
 evanetwork.com
 evfatcuv.com
@@ -17530,6 +17529,7 @@ gbsxcyukuuex.com
 gbwgrhjjwz.com
 gbwhqbiiq.com
 gbwrjyntqsvr.com
+gbybvvfo.com
 gcboyhlfqxhc.com
 gannett.gcion.com
 gcujnsgvdq.com
@@ -17804,6 +17804,7 @@ gxqrjjcsyh.com
 gxvbogvbcivs.com
 gxwjkbxubfjd.com
 gxwoiiyfjiz.com
+gxxkrzrvy.com
 gxxsqeqlepva.com
 gxzfpusmd.com
 gydfsypjiaymj.com
@@ -18573,6 +18574,7 @@ jfaqiomgvajb.com
 jfduv7.com
 jffwwuyychxw.com
 jfhupoqrydm.com
+jfjuhxfllw.com
 jfkfojgkrk.com
 jfresi.com
 jfribvstvcqy.com
@@ -18617,6 +18619,7 @@ jjzqygrh.com
 jkfg4hfdss.com
 jkiicqewzn.com
 jkiwvfgrsythrw.com
+jkjcoyeeglunz.com
 jkjoxlhkwnxd.com
 jkjwifmep.com
 jkkernvkrwdr.com
@@ -19727,6 +19730,7 @@ moyeluljrail.com
 mozefakt.com
 mp3ix.com
 mp3vicio.com
+mpfzgidlxsqtyt.com
 mpgflvbe.com
 mpifsodagy.com
 mpk01.com
@@ -20160,6 +20164,7 @@ nzphoenix.com
 nzvbcznobb.com
 nzwwrvywcfqmsq.com
 nzxriltfmrpl.com
+o12zs3u2n.com
 o2live.com
 o333o.com
 oaadkiypttok.com
@@ -20413,6 +20418,7 @@ overturs.com
 ovfbwavekglf.com
 ovgzbnjj.com
 ovjlgvapqhmpy.com
+ovkihcbxsbfeo.com
 ovoczhahelca.com
 ovqsyawrm.com
 ovrdkhamiljt.com
@@ -21475,6 +21481,7 @@ rmvlpkaa.com
 rmxads.com
 rnfrfxqztlno.com
 rnhkptivhwhc.com
+rnlfitypkucbhi.com
 rnrbvhaoqzcksxbhgqtrucinodprlsmuvwmaxqhxngkqlsiwwp.com
 rntlwkqmelxceu.com
 rnyuhkbucgun.com
@@ -22539,6 +22546,7 @@ twjboytcwutbrt.com
 twjgylzydlhz.com
 twmeccosyivi.com
 twmvjfatla.com
+twnkpjhbgcp.com
 twnrkedqefhv.com
 twtad.com
 twvmqhjjgj.com
@@ -23426,6 +23434,7 @@ wzfxaqhiapptsz.com
 wziftlp.com
 wzismevwhqixlq.com
 wzjbvbxldfrn.com
+wzlcpagvidi.com
 wznnfwhwwjkp.com
 wzueqhwf.com
 x-adservice.com
@@ -23528,6 +23537,7 @@ xjsqhlfscjxo.com
 xjwtyrklinni.com
 xjzqmgyr.com
 xkawgrrrpszb.com
+xkgbbiqqekja.com
 xkgitcod.com
 xkhxejeaarq.com
 xkjlcqbufdlwrq.com
@@ -23557,6 +23567,7 @@ xmmnwyxkfcavuqhsoxfrjplodnhzaafbpsojnqjeoofyqallmf.com
 xmmsyipahbq.com
 xmoyoxsx.com
 xmsgobwy.com
+xndskrtxkiv.com
 xnkmmbfpyokevaxsjtky.com
 xnlxpsbs.com
 xnnbvckd.com
@@ -23705,6 +23716,7 @@ ybhaoglgbgdk.com
 ybmdgyywbhk.com
 ybnuasihsy.com
 ybofeikeckfxh.com
+ybqqjrjf.com
 ybrjldiexlqb.com
 ybrmiemawkawxb.com
 ybwackoidmcat.com
@@ -23850,6 +23862,7 @@ ypbfrhlgquaj.com
 ypecrrktyo.com
 yphyzxdm.com
 ypmadserver.com
+ypreferred.com
 ypyarwgh.com
 yqhgbmyfiomx.com
 yqjoqncxmufi.com
@@ -24023,6 +24036,7 @@ zizmvnytmdto.com
 zjejoxqte.com
 zjgbpjmqfaow.com
 zjgygpdfudfu.com
+zjhnmbfqylme.com
 zjk24.com
 zjwcddahpz.com
 zkennongwozs.com
@@ -25092,6 +25106,7 @@ d2cgumzzqhgmdu.cloudfront.net
 d2cxkkxhecdzsq.cloudfront.net
 d2d2lbvq8xirbs.cloudfront.net
 d2dxgm96wvaa5j.cloudfront.net
+d2fbkzyicji7c4.cloudfront.net
 d2focgxak1cn74.cloudfront.net
 d2gpgaupalra1d.cloudfront.net
 d2gtlljtkeiyzd.cloudfront.net
@@ -34580,6 +34595,7 @@ popin.cc
 r5g.cc
 s9w.cc
 scriptcc.cc
+soyue.cc
 tcjy66.cc
 ujian.cc
 ulink.cc
@@ -34597,6 +34613,7 @@ cssdiv.club
 fage1.club
 zhuyuanp.club
 04zl.cn
+0z5jn.cn
 1017.cn
 tg.1155t.cn
 118114.cn
@@ -35593,6 +35610,7 @@ cccccd.com
 cchfjz.com
 ccmdgg.com
 cctyly.com
+ccunf.com
 cdeme.com
 cdfzcz.com
 cdgxq.com
@@ -35679,6 +35697,7 @@ cnzzlink.com
 code222.com
 code668.com
 codejumps.com
+codeok.com
 1.codesdq.com
 1.codezh.com
 codlw.com
@@ -35944,6 +35963,7 @@ boy.fujieace.com
 pub.funshion.com
 fv99.com
 yy1.fwccw.com
+fwjoi.com
 a.fwsir.com
 fwt0.com
 ams.fx678.com
@@ -37678,6 +37698,7 @@ daima.huoche.net
 i-components.net
 img80.net
 z88.izhufu.net
+dbu7.jandan.net
 fcns.jandan.net
 gmbh.jandan.net
 grantt.jandan.net
@@ -37714,6 +37735,7 @@ luolikong.net
 f1.lutouwang.net
 lv711.net
 bdjj.makepolo.net
+maoyumao.net
 medi-8.net
 img.meipic.net
 ma1.meishij.net
@@ -42026,6 +42048,7 @@ ad2.parom.hu
 ad.zodera.hu
 www2.doslectionflash.icu
 extinstalls.icu
+www2.fasterupconcreteflash.icu
 analytics.onesearch.id
 ads.online.ie
 stats2.rte.ie
@@ -43760,7 +43783,6 @@ ddahmen.com
 ddotmen.com
 degaodd.com
 dgyxbc.com
-diumiu.com
 dmdxsuxvlywxtlswclf.com
 ns1.dnsfor0.com
 ns1.dnsfor10.com
@@ -43776,7 +43798,6 @@ eibmornpk.com
 emvgfshkhldeyou.com
 engaceslit.com
 ervqveknzq.com
-esaacs.com
 etivtwaacqfs.com
 etlixykg.com
 excbifohvjwycxpsme.com
@@ -43887,6 +43908,7 @@ lfqvgmphn.com
 lhrhxeendctjeea.com
 likdvhtygomtplylmiw.com
 lkmkkblchefeibicfjl.com
+lomeia.com
 lpjovdyw.com
 lrqxvrqsihwtudox.com
 ltdgvsxeuuevxxytwxb.com
@@ -44033,6 +44055,7 @@ tqvouivxbii.com
 tridmen.com
 troymen.com
 trukmen.com
+trust-believe.com
 ttfamen.com
 twuybywnrlqcf.com
 tzbovsjrhwqd.com
@@ -44093,6 +44116,7 @@ xfdshaqjbfguhlcwnl.com
 xfiaiujixl.com
 xfwetadjclptdgdsug.com
 xjbftsmdmryxgg.com
+xovape.com
 xphdllpguj.com
 xqfqftrtkdxdi.com
 xudmqmqrnxk.com
@@ -44159,7 +44183,6 @@ galik.eu
 galin.eu
 galip.eu
 galor.eu
-galun.eu
 ganed.eu
 ganiq.eu
 gatec.eu
@@ -44174,7 +44197,6 @@ hapeg.eu
 hapoc.eu
 ijjsshatuadmd.eu
 lygus.eu
-lyken.eu
 lykil.eu
 lykon.eu
 lyman.eu
@@ -44261,90 +44283,89 @@ videcam.info
 aboveindustry.net
 actionfence.net
 actionmaster.net
+afterhome.net
+afterhouse.net
 afterlive.net
 afterserve.net
-battlepeople.net
 bothback.net
-bothshirt.net
+buildinglength.net
 cealis.net
 chargeforward.net
 cleanforward.net
+cleanoutside.net
 clearforward.net
+clearmorning.net
+clearmountain.net
+cornermember.net
+countryoutside.net
 crowdexplain.net
 crowdgarden.net
-crowdspace.net
-crowdtravel.net
 daughterglossary.net
-decemberhouse.net
-deephome.net
-deephouse.net
 driveback.net
+drivegold.net
+drivehome.net
+drivelive.net
 drivewash.net
-experiencetravel.net
+facegift.net
 facemine.net
-faceshirt.net
-facetalk.net
-facewash.net
 fieldback.net
+fieldhouse.net
 fieldrain.net
-fieldtalk.net
-fighttravel.net
 finishgoodbye.net
-followobject.net
+forcehome.net
 forceslept.net
-freshspace.net
 gainback.net
 gainheight.net
-gentlemanobject.net
-knownspace.net
-lifegift.net
-lifegold.net
-lifehouse.net
-longhome.net
-longover.net
+gainhouse.net
+gainpeace.net
+materialspace.net
 meguia.net
-memberclose.net
-memberspace.net
-membertravel.net
-motherbeing.net
 mountainshout.net
 mountainvalley.net
-mouthpeace.net
+movementnotice.net
 nailbreak.net
 probablyfortieth.net
-pushover.net
+probablyobject.net
+queenhome.net
 queenlive.net
 sellback.net
+sellgift.net
+sellhome.net
 sellimportant.net
 selllive.net
 sellsure.net
-simplebottom.net
+selltuesday.net
 simpleflower.net
 simplevalley.net
-smokestation.net
-sticktuesday.net
+storygift.net
+storygold.net
+storyhome.net
+storyhouse.net
 storymine.net
-summerclose.net
-summerspace.net
+subjectobject.net
 sweetflower.net
 sweetgoodbye.net
 sweetmodern.net
 sweetshout.net
+sweetsister.net
+sweetthird.net
+sweettravel.net
 sweetvalley.net
-thoughttravel.net
+tablecloth.net
+theircloth.net
+walkhome.net
 walkserve.net
-waterspace.net
-waterstation.net
-watertravel.net
 weakcause.net
+weakover.net
 wednesdaybreak.net
-wheelhouse.net
 windowshout.net
+windowspace.net
+windowstation.net
 winterbottom.net
 winterbring.net
 winterminute.net
-womanspace.net
-womantravel.net
+winterstation.net
+wintertravel.net
 ceigqweqwaywiqgu.org
 eiscawcsgiaemsco.org
 kuyuacgsiowawsqa.org
@@ -44370,11 +44391,7 @@ udtwirqzhdm.yi.org
 wmvrlpvpqxu.yi.org
 xlfstaxlrui.yi.org
 zssdxcq.yi.org
-afpqmdehpjdeextjsnh.pw
-ctqpxfgbdiymyreciu.pw
-nvwskmv.pw
-ookywcjsikqsbs.pw
-ylxvjyfvbrydm.pw
+qseyvwwvohab.support
 cbyhyjal.top
 chgbqnefqf.top
 clmtglwlkda.top
@@ -44394,16 +44411,13 @@ wvkhahofm.top
 xqfytmzefst.top
 bhghfmxnsqodobwkl.us
 fxdvccsdkxgbxniss.us
-kwycmxubihgnksbveuciw.us
 mijygutqw.us
-mncphxwojayqooqa.us
-wtbutuvrcbsqjwjssmose.us
 xwtibspfabkersymrgv.us
 
 
 ########## Blacklist from https://mirror1.malwaredomains.com/files/justdomains ##########
 
-# Ignored duplicates: 1141
+# Ignored duplicates: 1131
 
 # Ignored entries due to the whitelist: 2
 
@@ -46336,6 +46350,7 @@ fb-m.cu.cc
 eqjeurqgrdj.cc
 firstline.cc
 historicals.flu.cc
+gdeea.cc
 globalmoney.cc
 havven.cc
 wh424361.ispot.cc
@@ -49157,6 +49172,7 @@ aphcajk.com
 aphrofem.com
 apibookprinting.com
 apiolocus.com
+apiparbion.com
 bb.mobile.apksms.com
 aplicativo-seg.com
 apljjtserve.com
@@ -49404,6 +49420,7 @@ arkimpactindia.com
 arkmeditech.com
 afo.armandocamacho.com
 armaninofoods.com
+armazones.com
 armenminasian.com
 armleder.com
 armoniaclinicadental.com
@@ -50450,6 +50467,7 @@ atlas.verification.login.54a54a.ceneba.com
 cenfet.com
 cengizsozubek.com
 cennoworld.com
+cpajump.centenr.com
 center-free-borne.com
 center-recovery-account.com
 centerwaysi.com
@@ -52680,6 +52698,7 @@ mobile-free.globaldataince.com
 globalheuristics.com
 globalholidaystours.com
 globallogisticsunit.com
+globalnursesonline.com
 globalogroup.com
 globalrubbercorporation.com
 globalserviceaccount.com
@@ -53849,6 +53868,7 @@ iulkijatrefeg.com
 iuyyx-shop.com
 ivalue-s.com
 adode.account.ivasistema.com
+ivavitavoratavit.com
 ivillecs.com
 ezxdxeqmudhnqv.ivydancefloors.com
 fvtmaqzbsk.ivydancefloors.com
@@ -54974,6 +54994,7 @@ mahonolo.com
 maidngl.com
 maihalertonlinealer.com
 mail-verification.com
+mail3x.com
 dgenuiservscrow.co.uk.micro36softoutlook17.mainesseproptscrillar.com
 mainonlinesetup.com
 mainstreetinsurance345.com
@@ -58209,6 +58230,7 @@ sparbankenonlineaccount.com
 speakyourminddesigns.com
 id.paypal.com-securitylimited.special-contentz.com
 servives.safeti.specialis-reponces.com
+specialistups.com
 specialtyrubberstampsandsigns.com
 espace-oney.fr.service.misajour.spectralgaming.com
 spectrocoinau.com
@@ -60446,6 +60468,7 @@ kfz-ross.de
 klebezeit.de
 komplettraeder-24.de
 lagerhaus-loft-toenning.de
+lagrotta4u.de
 lehrspiele.de
 veranstaltungen.lenggries.de
 m-medientechnik.de
@@ -63785,6 +63808,7 @@ fdg.10eurosbonheur.net
 ups-parcel.1n1talk.net
 24hinvestment.net
 2online-activation.net
+39m.net
 3dmv.net
 515646.net
 51web8.net
@@ -70078,7 +70102,7 @@ zihotelsandtours.co.zw
 
 ########## Blacklist from https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt ##########
 
-# Ignored duplicates: 2952
+# Ignored duplicates: 2941
 
 # Ignored entries due to the whitelist: 5
 
@@ -77500,7 +77524,7 @@ amazon-sicherheit.kunden-ueberpruefung.xyz
 
 ########## Blacklist from https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt ##########
 
-# Ignored duplicates: 40699
+# Ignored duplicates: 40723
 
 # Ignored entries due to the whitelist: 6
 
@@ -102373,7 +102397,6 @@ o-cv.com
 o-o-11-o-o.com
 o-o-6-o-o.com
 o-o-8-o-o.com
-o12zs3u2n.com
 o24.com
 o4nf2970.com
 o4uxrk33.com
@@ -123538,7 +123561,7 @@ middleportfreight.co.zw
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 17264
+# Ignored duplicates: 17282
 
 # Ignored entries due to the whitelist: 12
 
@@ -123721,6 +123744,7 @@ statistics.11880.com
 40nuggets.com
 4bb6jls06l.com
 4dasli.com
+4dsbanner.com
 4f2sm1y1ss.com
 4oney.com
 50tlyearabakazan.com
@@ -126951,7 +126975,6 @@ d28g1fhp6rn9w3.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
 d28k9nkt2spnp.cloudfront.net
 d2b7n13v8adl6f.cloudfront.net
-d2fbkzyicji7c4.cloudfront.net
 d2fhjyz3dwdx87.cloudfront.net
 d2gfi8ctn6kki7.cloudfront.net
 d2hluuq2g8gwrv.cloudfront.net
