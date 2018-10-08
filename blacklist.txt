@@ -2715,6 +2715,7 @@ rintaref.ru
 risale.ru
 risle.ru
 riverlead.ru
+news.rk345dno.ru
 rmbn.ru
 rnuhavi.ru
 robcalwith.ru
@@ -3456,6 +3457,7 @@ carambo.la
 traq.li
 br.app.link
 2app.lk
+realpush.media
 accengage.net
 bildirim.net
 d2r1yp2w7bby2u.cloudfront.net
@@ -5912,7 +5914,7 @@ adsrv.iol.co.za
 
 ########## Blacklist from https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt ##########
 
-# Ignored duplicates: 26
+# Ignored duplicates: 25
 
 sgruber.com.br
 czmlfc.sxtm30.badudns.cc
@@ -5951,7 +5953,6 @@ ynxp.co
 191gm.com
 318x.com
 332gm.com
-365tc.com
 510w.com
 51lvyu.com
 54fangtan.com
@@ -6072,7 +6073,6 @@ interfere.marionunezcampusano.com
 mkhafnorcu81.com
 mobuna.com
 mybuzzmonitor.com
-nancunshan.com
 nexprice.com
 down.nishuoa.com
 nppmwatch.com
@@ -6112,7 +6112,6 @@ wan4399.com
 wantoffer.com
 watermanwebs.com
 mjhkj8.u5a.wentserver.com
-bvpdf9.u9a.wentserver.com
 wzfmxlrrynnbekcqzu.com
 xingqibaile.com
 xinyangmeiye.com
@@ -6191,7 +6190,6 @@ unionavenue.net
 urnsforpets.net
 vstart.net
 xy-cs.net
-5689.nl
 www.infoaz.nl
 rafastudio.nl
 f-scripts.co.nr
@@ -6212,7 +6210,6 @@ ckidkina.ru
 interior-examples.ru
 lectscalimertdr43.land.ru
 mampoks.ru
-motionritm.ru
 myfileupload.ru
 buthoprus.narod.ru
 pinkpillar.ru
@@ -6955,6 +6952,7 @@ zork.jerkngo.com
 jfveak.com
 jhvhbc.com
 jjabr.com
+jjuau.com
 jkhad.com
 jkolp.com
 johnlactal.com
@@ -9939,7 +9937,6 @@ rabbitstorage.ru
 rafmentrqwp.ru
 rakoff.ru
 rakxjt4c.ru
-mondeoeffect.rambler.ru
 randoom.ru
 rantez.ru
 rasionononemusmorkitpalace.ru
@@ -16905,6 +16902,7 @@ ekgmjxjyfzzd.com
 ekhgvpsfrwqm.com
 ekiytcllwboe.com
 ekmas.com
+ekoatchooze.com
 ekolamis.com
 elbeobjhnsvh.com
 elcolpplwua.com
@@ -18312,6 +18310,7 @@ igupodzh.com
 igwzuwwtvnywx.com
 igyzmhqbihoi.com
 ihcamesgexiv.com
+ihcbfiqkp.com
 ihdrozswbekx.com
 iheartbucks.com
 ihflwxrsptqz.com
@@ -18320,6 +18319,7 @@ ihgkmgwfhjam.com
 ard.ihookup.com
 ihqxhokndcfq.com
 ihriduffgkel.com
+ihvmcqojoj.com
 iialqejeka.com
 iibcejrrfhxh.com
 iicheewi.com
@@ -18663,6 +18663,7 @@ jfjuhxfllw.com
 jfkfojgkrk.com
 jfresi.com
 jfribvstvcqy.com
+jfvadxjr.com
 jfxjpswhcwwq.com
 jgophcykrckik.com
 jgqcraids.com
@@ -19247,6 +19248,7 @@ lfcnzhcnzded.com
 lffyoomtjjhvc.com
 lfirckcbkh.com
 lflplmckcncj.com
+lfqocbhv.com
 lftyfcqqctj.com
 lfvrjrdrgazl.com
 lgbshazoug.com
@@ -22432,6 +22434,7 @@ thebannerexchange.com
 delivery.thebloggernetwork.com
 delivery-dev.thebloggernetwork.com
 thebunsenburner.com
+ad.theepochtimes.com
 a.thefreethoughtproject.com
 ext.theglobalweb.com
 thejesperbay.com
@@ -23866,6 +23869,7 @@ xrpcbukuwdvkc.com
 xrqkzdbnybod.com
 xseczkcysdvc.com
 xsgacudwlysw.com
+xskbsyssik.com
 xsrs.com
 xswnrjbzmdof.com
 xswsrpeeyh.com
@@ -26798,7 +26802,7 @@ adz.co.zw
 
 ########## Blacklist from https://hosts-file.net/.%5Cad_servers.txt ##########
 
-# Ignored duplicates: 37632
+# Ignored duplicates: 37631
 
 # Ignored entries due to the whitelist: 33
 
@@ -33519,6 +33523,7 @@ ads2.fingersoft.net
 ads.flashtrack.net
 img.fliks.net
 flom.net
+secure.footprint.net
 freecelebvideo.net
 s1.freehostedscripts.net
 tc.freehostedscripts.net
@@ -36900,6 +36905,7 @@ gg1.mengchongzu.com
 menghuanzs.com
 mengmengdas.com
 mengpr.com
+mengyuanwei.com
 meooe.com
 1.mgff.com
 mgldzcls.com
@@ -37024,7 +37030,6 @@ a.oh100.com
 okkkk.com
 okm918.com
 okokw.com
-manads.static.olcdn.com
 onetad.com
 onewhee.com
 btn.onlylady.com
@@ -38327,7 +38332,7 @@ ip.hivps.xyz
 
 ########## Blacklist from http://someonewhocares.org/hosts/hosts ##########
 
-# Ignored duplicates: 7942
+# Ignored duplicates: 7940
 
 # Ignored entries due to the whitelist: 12
 
@@ -42961,6 +42966,8 @@ austria-car-rental.findworm.net
 tracking.fitprosperity.net
 coreg.flashtrack.net
 ad.fo.net
+abcnews.footprint.net
+espn.footprint.net
 adcycle.footymad.net
 foroushi.net
 pharmacy-canada.forsearch.net
@@ -44181,6 +44188,7 @@ ttgsuwfafl.bid
 txbrcdwtvm.bid
 xigulspulc.bid
 kovacs.biz
+qwdssurudtpf.biz
 b410n0l2k4j3a.cc
 hbkdqlobw.cc
 insamertojertoq.cc
@@ -44232,7 +44240,6 @@ bnmokfrjpylxhvmwx.com
 brehmen.com
 breymen.com
 brluetauvqpyjlmwr.com
-bsoqpbkzkyqrk47.com
 bstvhrayxnboqraqh.com
 buttiorffdlxk.com
 bxbike.com
@@ -44260,6 +44267,7 @@ cwyerobemr.com
 cxwviolozgtatqi.com
 cyewmen.com
 cylimen.com
+cyroeppeaixy.com
 dadohbnoiu.com
 dafnpgrvujrsmjkbkdd.com
 dalwxisp.com
@@ -44307,11 +44315,11 @@ fjmumen.com
 fkjvmeprgktateanj.com
 fkovkvdmupunethwtg.com
 fkpunqlqtkimrhrbear.com
+flygods.com
 fnvweaywlctnxsi.com
 fregmen.com
 frpcpaabkn.com
 fthmyvrefryk.com
-fwqssjjtkpehue.com
 fxophxmrry.com
 fyokqvektjgcwl.com
 fzmumen.com
@@ -44341,6 +44349,7 @@ hbpwkmkt.com
 hdmumen.com
 hdwomen.com
 hejdgcstmwnbstixw.com
+hghipyrq.com
 hgnftgngjegoghjegv.com
 hgyudheedieibxy.com
 hncqshhfjangacfx.com
@@ -44384,7 +44393,6 @@ jcnjrvpmcwwvnqi.com
 jdhvlcjkgykjiraf.com
 jdwomen.com
 jhghrlufoh.com
-jhijnjalovon.com
 jiwucjyxjibyd.com
 jjfamen.com
 jjoltbuectw.com
@@ -44414,12 +44422,14 @@ knpqxlxcwtlvgrdyhd.com
 kodogu.com
 koeymen.com
 kohomen.com
+ksdrwalv.com
 kswomen.com
 ktvaatsckypuxwq.com
 ktxerynkliucejfsy.com
 kudomen.com
 kuehndqrw.com
 kulwtnsuebllt.com
+kuvrocqp.com
 kxvcwikigebkuq.com
 kyjgguyqtd.com
 kzrngzhlov.com
@@ -44432,11 +44442,11 @@ likdvhtygomtplylmiw.com
 lkmkkblchefeibicfjl.com
 lpjovdyw.com
 lrqxvrqsihwtudox.com
+lscyqrjofqmtn.com
 ltdgvsxeuuevxxytwxb.com
 ltfamen.com
 ltyemen.com
 lvsemen.com
-lvwomen.com
 lwqmgevnftflytvbgs.com
 lxrymen.com
 lygynud.com
@@ -44447,8 +44457,6 @@ lyrytyx.com
 lysyfyj.com
 lyvyjoj.com
 lyxymin.com
-lzinwnsdomsnvpo3.com
-macaug.com
 macymen.com
 mamitam.com
 maramit.com
@@ -44457,17 +44465,16 @@ mazemen.com
 mbleswoqkbfmhhsbh.com
 meeaexhvlnhfalqyrc.com
 mingmen.com
+mmobykwrs.com
 mochcckvjfboxocjjpf.com
 movimen.com
 movrronaha.com
-mpxqtzhquakkpajz.com
 mrthpcokvjc.com
 mtsoexdphaqliva.com
 mwylzbqq.com
 mxicrfesqlk.com
 myalpu.com
 myramen.com
-mzhvuchagjirxhh9q.com
 najisom.com
 nametok.com
 navatim.com
@@ -44490,7 +44497,6 @@ nvlyffua.com
 nvrnisdf.com
 nvwomen.com
 nwhjmgysoaetqhb.com
-nwrnxwsfanslvoa5.com
 nwwrxhdshbwbgdfal.com
 nxrkmtdyjmnubs.com
 oakedtell.com
@@ -44542,6 +44548,7 @@ qhrhngar.com
 qhvofnudibriut.com
 qislvfqqp.com
 qmjgxbkrerxk.com
+qngnpwezltiern.com
 qoaaxkcvvuumrkeivr.com
 qplygskdeidoweja.com
 qrarxngrqtmioqnawg.com
@@ -44564,7 +44571,6 @@ rrcaiodd.com
 rrmlyaviljwuoph.com
 rutmrdutdsynx.com
 rwvvxssfbnp.com
-sadomen.com
 saiuxoqkfuj.com
 saramen.com
 satomen.com
@@ -44584,7 +44590,6 @@ sofengo.com
 sofimen.com
 sonimen.com
 soremen.com
-stflbj.com
 susumen.com
 swagmen.com
 swbadolov.com
@@ -44657,17 +44662,18 @@ wmbnjcmetnrhrfec.com
 wpemvmxj.com
 wrfjivmimqajugdqtul.com
 wvwrfkjaaorsi.com
-wwithcwirsbgbw01.com
 wwmpetrwryslk.com
 wwwomen.com
 wxsssfvmqi.com
 wyfamen.com
+xdibuipkq.com
 xfatmen.com
 xfdshaqjbfguhlcwnl.com
 xfiaiujixl.com
 xfwetadjclptdgdsug.com
 xkrndqbrwnayscq.com
 xmbuxksucskl.com
+xoognpnlet.com
 xphdllpguj.com
 xqfqftrtkdxdi.com
 xudmqmqrnxk.com
@@ -44699,7 +44705,6 @@ yyjiujeygdpkippa.com
 zdwomen.com
 zgsjfo.com
 zhaomen.com
-zqqznxpjlrvhdhce8.com
 zubick.com
 akkqttli.eu
 bomed.eu
@@ -44841,49 +44846,42 @@ fotorob.info
 marusic.info
 novodom.info
 videcam.info
+afterjuly.net
 alongfell.net
 alongopen.net
-alongtear.net
-ballpure.net
-begincourse.net
 begininside.net
 cealis.net
 crowdexplain.net
 crowdpower.net
-deepcity.net
-deepgrow.net
 deeppress.net
 deepslow.net
 deepwild.net
-experiencebusiness.net
+drivecity.net
 experienceinside.net
+facecity.net
 fightnation.net
-fightpaint.net
 fightpower.net
 fightready.net
+finishclean.net
 followfamous.net
-freshbottle.net
+forcegrow.net
+forcetear.net
 freshcountry.net
 freshnation.net
 freshplease.net
 freshpower.net
 fridayboat.net
-fridaycity.net
 fridaykind.net
-gentlemanappear.net
+gaincity.net
+gaincompe.net
 knownpeople.net
-knownwomen.net
+laughdivide.net
 lifeboat.net
-lifecity.net
-lifedish.net
-lifegrow.net
 lifehelp.net
 lifehope.net
 lifepress.net
-lifepure.net
 liferest.net
 lifeslow.net
-lifetear.net
 lifewear.net
 lifewild.net
 longboat.net
@@ -44892,36 +44890,40 @@ longhope.net
 meguia.net
 memberbright.net
 memberpower.net
+monththank.net
+mothermanner.net
 mouthslow.net
-mouthtear.net
 partybusiness.net
 partynation.net
+perhapsappear.net
+possiblewomen.net
 pushboat.net
 pushfind.net
+queencity.net
+roqidwbgxpsyygx.net
+sellthank.net
 shallhelp.net
-shallmarch.net
 shallopen.net
 smokedaughter.net
 smokenation.net
-soilcount.net
-summercourse.net
-summerstream.net
+storycity.net
+storygrow.net
 summersurprise.net
+sweetcourse.net
+sweetwomen.net
 thoughtdifferent.net
-thoughtstream.net
 tillleft.net
 tstllc.net
-waterclean.net
-watercourse.net
+walkhour.net
 waterdaughter.net
 waternation.net
-waterpaint.net
 waterpower.net
 waterready.net
-wheelcount.net
 wheelhelp.net
 wheelwear.net
-womannothing.net
+windowstream.net
+winterstream.net
+winterwomen.net
 ceigqweqwaywiqgu.org
 eiscawcsgiaemsco.org
 kuyuacgsiowawsqa.org
@@ -44993,7 +44995,7 @@ yhbfgxyvcxy.us
 
 ########## Blacklist from https://mirror1.malwaredomains.com/files/justdomains ##########
 
-# Ignored duplicates: 1049
+# Ignored duplicates: 1044
 
 # Ignored entries due to the whitelist: 2
 
@@ -48960,6 +48962,7 @@ www3.32hy.com
 345hc.com
 365onlinecheck.com
 365rebo.com
+365tc.com
 36robots.com
 mobi.3bancobrasil.com
 update-account.3dpotret.com
@@ -56469,6 +56472,7 @@ namemilky.com
 namjai.com
 namjestajgavranovic.com
 namthai.com
+nancunshan.com
 nancyhuston.com
 nancyricegraphicdesign.com
 nancysnibbles.com
@@ -65114,6 +65118,7 @@ mountainbikesforsale.net
 moutheasy.net
 mouthgrave.net
 mouthsound.net
+mouthtear.net
 movementapple.net
 movementshout.net
 mtr2000.net
@@ -65650,6 +65655,7 @@ zxsqing.com.ng
 te54.i.ng
 dropboxlogin.name.ng
 shortletnigeria.ng
+5689.nl
 apostelhuis.nl
 crm.bbsfood.nl
 beroepsperformancescan.nl
@@ -67697,6 +67703,7 @@ mnnwrap.ru
 moby-aa.ru
 samsonov.molvi.ru
 monbri.ru
+motionritm.ru
 www.gelios.msk.ru
 mskproekt.ru
 muhanovabeauty.ru
@@ -70760,7 +70767,7 @@ zihotelsandtours.co.zw
 
 ########## Blacklist from https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt ##########
 
-# Ignored duplicates: 2838
+# Ignored duplicates: 2832
 
 # Ignored entries due to the whitelist: 5
 
@@ -78190,7 +78197,7 @@ amazon-sicherheit.kunden-ueberpruefung.xyz
 
 ########## Blacklist from https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt ##########
 
-# Ignored duplicates: 39612
+# Ignored duplicates: 39620
 
 # Ignored entries due to the whitelist: 6
 
@@ -113989,7 +113996,6 @@ first-scr.net
 fixreputation.net
 flappybirdcheats.net
 flexytalk.net
-footprint.net
 forensiq.net
 foreveryboxzip.net
 forexunion.net
@@ -122197,7 +122203,7 @@ middleportfreight.co.zw
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 17639
+# Ignored duplicates: 17650
 
 # Ignored entries due to the whitelist: 12
 
@@ -122975,7 +122981,6 @@ edgualf.com
 collector-analytics.efigence.com
 ad.eglenced.com
 ekmpinpoint.com
-ekoatchooze.com
 electusdigital.com
 elepheny.com
 elite-s001.com
