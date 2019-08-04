@@ -11963,7 +11963,7 @@ koten.zone
 
 ########## Blacklist from https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt ##########
 
-# Ignored duplicates: 910
+# Ignored duplicates: 908
 
 # Ignored entries due to the whitelist: 5
 
@@ -17347,7 +17347,6 @@ camcrush.com
 camdough.com
 camduty.com
 cameraprive.com
-promo.campaigndog.com
 campanja.com
 campartner.com
 camplacecash.com
@@ -43074,6 +43073,7 @@ a1.qqtn.com
 qqzu.com
 qsbz2011.com
 qshxc.com
+qsj65.com
 a.qsjiajiao.com
 qsove.com
 1.qt86.com
@@ -44010,6 +44010,7 @@ zhufushuo.com
 uc.zhuici.com
 zhululm.com
 p1.zhumengwl.com
+zhunishunli.com
 i.zhuoyaju.com
 zhy333.com
 zhybw88.com
@@ -44075,6 +44076,7 @@ zzrcz.com
 zzsdjq.com
 zzsno1.com
 zzyonghao.com
+xayah.date
 fanli.in
 52lover.info
 aifei.info
@@ -50730,7 +50732,6 @@ aakamen.com
 aarbvsrdnhhidhwk.com
 aaskmen.com
 absqvhpldvsmclt.com
-acesei.com
 advjpbbhiwoccqa.com
 afspypmvmh.com
 aftfjuclhvdubfeuqs.com
@@ -50739,6 +50740,7 @@ ahrkvtgc.com
 aifamen.com
 aiwomen.com
 alivite.com
+altbio.com
 hdredirect-lb5-1afb6e2973825a56.elb.us-east-1.amazonaws.com
 amlumen.com
 amyumen.com
@@ -50769,7 +50771,6 @@ brehmen.com
 breymen.com
 brluetauvqpyjlmwr.com
 bsfatfrzwbricdeohm.com
-bslcac.com
 buttiorffdlxk.com
 bzfamen.com
 caddmen.com
@@ -50786,6 +50787,7 @@ citumen.com
 ciyege.com
 cjjugrow.com
 ckfrzitlm.com
+ckyioylutybvcxv.com
 cnbpdmqaxkredxnk.com
 codamen.com
 cpupishlmhsuucs.com
@@ -50805,13 +50807,13 @@ ddotmen.com
 definitionradio.com
 dfwpdumvidoktxqhet.com
 dhcbhweeuuww.com
+dibuoo.com
 dlokmen.com
 dmdxsuxvlywxtlswclf.com
 dmfcfogohwwatl.com
 ns1.dnsfor10.com
 ns1.dnsfor9.com
 docham.com
-dpbtpgstynbrqgvn.com
 dqyumiqslaemuixxak.com
 ecrimen.com
 ectdsitvvoydawmfni.com
@@ -50927,6 +50929,7 @@ khddwukkbwhfdiufhaj.com
 kirtreladiocqmisg.com
 kkmumen.com
 kkujkajkeiobts.com
+kmwomen.com
 knpqxlxcwtlvgrdyhd.com
 koeymen.com
 ksdrwalv.com
@@ -51032,6 +51035,7 @@ qoaaxkcvvuumrkeivr.com
 qplygskdeidoweja.com
 qqhyjctgkcbw.com
 qrarxngrqtmioqnawg.com
+qshykj.com
 qujwqxiga.com
 qynmkrfl.com
 rbartdeguauwfnmuf.com
@@ -51041,12 +51045,12 @@ rgmxtsagmcvrrkofdkn.com
 riaaiysk.com
 rkjtwjwmesvwhpc.com
 rlkeqcsygmmglv.com
+rmmembshxxtd.com
 rrcaiodd.com
 rrmlyaviljwuoph.com
 rutmrdutdsynx.com
 rwvvxssfbnp.com
 sabamen.com
-sagomen.com
 saramen.com
 saskmen.com
 satamen.com
@@ -51074,6 +51078,7 @@ swbadolov.com
 swkksblqrljvgpavqoj.com
 swmumen.com
 sxilgdils.com
+sxnlcg.com
 sykvfmrbjvj.com
 thammen.com
 thawmen.com
@@ -51120,7 +51125,6 @@ wasgaeecxlkw.com
 webumen.com
 wglxvkpybhnxhfv.com
 whyione.com
-whyldd.com
 wliyfyudchpoipilob.com
 wlrfjgojtlqel.com
 wpemvmxj.com
@@ -51307,51 +51311,55 @@ novotic.info
 pvxwawc.info
 videcam.info
 vofapim.info
+xnuvmikbwq.info
 xuxuxex.info
-ujqtymxgkorbrcetv.me
 ablelift.net
 ableroad.net
 ablevoice.net
 actionfence.net
 actionlanguage.net
+actionoutside.net
 advanceorder.net
 applenothing.net
 basketforward.net
 beautynight.net
 becamenothing.net
 beforenothing.net
+belongtogether.net
 cealis.net
-chargeforward.net
-cleanforward.net
-cleanindustry.net
 cleanoutside.net
-clearforward.net
-clearlanguage.net
 clearmorning.net
 clearmountain.net
-cloudscene.net
+cloudnoise.net
+cloudrise.net
 cornermember.net
-darkscene.net
+darknoise.net
+darkrise.net
+destroyapple.net
 drinkgreen.net
 drinkhappy.net
 drinkroad.net
 forwardbasket.net
-glassarrive.net
+gentleguard.net
 glassdevice.net
+glassfence.net
+glassguard.net
 heavenspring.net
+heavyfence.net
 heavyindustry.net
 heavysupply.net
+hillhappy.net
 hilllight.net
+journeytogether.net
 jumpfive.net
 jumplight.net
 jumpmail.net
-knowbest.net
-knoweasy.net
 leaderoffice.net
+leadersettle.net
 lookeasy.net
 lookmail.net
 looksound.net
-lordgone.net
+lordgreat.net
 meguia.net
 movehappy.net
 movepage.net
@@ -51359,14 +51367,16 @@ necessarytrouble.net
 ordermaster.net
 orderpresident.net
 pickfive.net
+pickgreat.net
 pickgreen.net
 pickmail.net
-pickride.net
-rememberstraight.net
+pickscene.net
 requirefound.net
+returnfound.net
+returnsuccess.net
 roomeight.net
 roomfive.net
-roomthem.net
+roomscene.net
 signlight.net
 signpage.net
 signsound.net
@@ -51374,11 +51384,10 @@ songlight.net
 songmail.net
 songpage.net
 songsince.net
-threesmall.net
 threesound.net
-variouscaught.net
 variouscontinue.net
 whomvoice.net
+withcross.net
 cegauoqsykgqecqc.org
 ceigqweqwaywiqgu.org
 eiscawcsgiaemsco.org
@@ -51405,14 +51414,20 @@ udtwirqzhdm.yi.org
 wmvrlpvpqxu.yi.org
 xlfstaxlrui.yi.org
 zssdxcq.yi.org
-kajvplekahxjuubjafkv.pro
 xsjsgnphwi.pro
+baetracpgvnvg.pw
 cegysnd.pw
 dcxbsfiaotobdewhhwcox.pw
+dwivply.pw
+hpirmlelirym.pw
 jituvgcrjlvkxgl.pw
 jpptdvbgpwxnw.pw
 kpwcwewdvkphfjmswaqn.pw
 mgtkntcukk.pw
+mqcxqmfljffsdbbf.pw
+pbqnakqehdwbjw.pw
+xgwiwcqqfjudlnhhc.pw
+yxiwwitvbas.pw
 cbyhyjal.top
 chgbqnefqf.top
 clmtglwlkda.top
@@ -51433,12 +51448,8 @@ ulacwitde.top
 urirmpyp.top
 wnwjibytov.top
 xqfytmzefst.top
-bogvmuvnrgpmlc.us
 gehwtth.us
-ipqgisaflydbtirnkl.us
 kqbbgntj.us
-natatyofrqcmfdgidmkmu.us
-oicprhjhsaxtdi.us
 putlgfbrjh.us
 rjhxkvkc.us
 sdqylqniyhl.us
@@ -84999,7 +85010,7 @@ amazon-sicherheit.kunden-ueberpruefung.xyz
 
 ########## Blacklist from https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt ##########
 
-# Ignored duplicates: 45700
+# Ignored duplicates: 45709
 
 # Ignored entries due to the whitelist: 8
 
@@ -85326,6 +85337,7 @@ fastretail.be
 frangipani.be
 garage-fiat.be
 geobirds.be
+gezinsbondzarren.be
 gsba.be
 hetvliegendwiel.be
 highlakehill.be
@@ -86275,6 +86287,7 @@ adidas-collection.club
 adpay.club
 adtopia.club
 amzonnews.club
+aniashboy.club
 applesupport.club
 aristianewr.club
 ationcomotest.club
@@ -86283,6 +86296,7 @@ chicheportiche.club
 codaspani.club
 coyalecap.club
 cpufan.club
+curaleani.club
 dadukevich.club
 ddobnajanu.club
 docsconvert.club
@@ -90852,7 +90866,6 @@ cji1.com
 cjl58f3agc.com
 ckk69drbro.com
 ckmark.com
-ckyioylutybvcxv.com
 ckzyrkbqbv.com
 claiccampe.com
 claitors.com
@@ -92209,7 +92222,6 @@ diandiandx.com
 dianrui.com
 diaobanstudio.com
 diaryand.com
-dibuoo.com
 dic-astra.com
 dichiro.com
 dickenshandchimes.com
@@ -93255,7 +93267,6 @@ espanolnerium.com
 espansioneimmobiliare.com
 espaziodesign.com
 espiondiscret.com
-espn-la.com
 espritensemble.com
 esqa.com
 esqchamber.com
@@ -93583,7 +93594,6 @@ fallingfalcon.com
 fallingspringrun.com
 fallout4free.com
 fam-ad.com
-famedomain.com
 familiabuchholz.com
 familienzahnaerzte.com
 family-clinics.com
@@ -112608,7 +112618,6 @@ rlilmxpwb.com
 rmbutterfly.com
 rmcnea.com
 rmgserving.com
-rmmembshxxtd.com
 rmo-retail.com
 rmrcreative.com
 rndled.com
@@ -114329,6 +114338,7 @@ stiffstem.com
 stiffvip.com
 stiffycash.com
 stigol.com
+stillcatholic.com
 stingerpest.com
 stinnettjarratt.com
 stinsonservices.com
@@ -121220,6 +121230,7 @@ topfiles.me
 u51.me
 uebawtz7.me
 uee.me
+ujqtymxgkorbrcetv.me
 unlckr.me
 unlockphone.me
 urlck.me
@@ -124263,6 +124274,7 @@ todaytime.net
 todoapk.net
 toolscore.net
 top-hacks.net
+top-oferty.net
 topgc.net
 tophacks.net
 topofpub.net
@@ -126317,6 +126329,7 @@ easydownload.pl
 ebookeo.pl
 ebookipdf.pl
 eco-flow.pl
+ecomotto.pl
 ecpp.pl
 eeu.pl
 eforsa.pl
@@ -126827,6 +126840,7 @@ wartomiec.pl
 web-online.pl
 weeb-tv.pl
 welte.pl
+wernet.pl
 wesklan.pl
 wiadomosci-onet24.pl
 wibtech.pl
@@ -126975,6 +126989,7 @@ insider.pro
 iy8yhpmgrcpwkcvh.pro
 jet-mail.pro
 justcase.pro
+kajvplekahxjuubjafkv.pro
 kidnepishlient.pro
 lainding.pro
 latoniankeen.pro
@@ -130243,8 +130258,10 @@ myredirect.us
 nano-visor.us
 nanorep.us
 nanovisor.us
+natatyofrqcmfdgidmkmu.us
 nicepics.us
 ns01.us
+oicprhjhsaxtdi.us
 onecinema.us
 onlinehacks.us
 oryano.us
@@ -130586,6 +130603,7 @@ dunessemplic.xyz
 dzisiejszefakty.xyz
 ecblog.xyz
 ekatalog.xyz
+erxalim.xyz
 eu-cookie-law-enforcement2.xyz
 eucampaigns.xyz
 eurocredit.xyz
@@ -130762,7 +130780,7 @@ polywaste.co.zw
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 23681
+# Ignored duplicates: 23688
 
 # Ignored entries due to the whitelist: 24
 
@@ -130793,6 +130811,7 @@ atlas1.krone.at
 megast.at
 stats.nekapuzer.at
 pix.news.at
+rawr.at
 px.staticfiles.at
 trocado.at
 waust.at
@@ -131233,6 +131252,7 @@ um-public-panel-prod.s3.amazonaws.com
 yieldmo-builds.s3.amazonaws.com
 kinesis.us-east-1.amazonaws.com
 ambercrow.com
+ambienetics.com
 ambient-platform.com
 link.americastestkitchencorp.com
 amikay.com
@@ -131909,6 +131929,7 @@ itracking.fccinteractive.com
 sp.fdlreporter.com
 feedperfect.com
 ivw.fem.com
+fethungi.com
 fexzuf.com
 ffwap.com
 jump.fhoa365.com
@@ -133217,6 +133238,7 @@ skyglue.com
 loglady.skypicker.com
 sl-ct5.com
 stats.slashgear.com
+analytics.sleeknote.com
 slingpic.com
 smadex.com
 smallseotools.com
@@ -133226,7 +133248,6 @@ smart-digital-solutions.com
 smart-dmp.com
 smartctr.com
 smartocto.com
-smartsuppchat.com
 smartzonessva.com
 smfsvc.com
 smrtlnks.com
@@ -133585,6 +133606,7 @@ utop.umengcloud.com
 log.umsns.com
 stats.umsns.com
 unicaondemand.com
+uniconsent.com
 secure-wa-na.unileversolutions.com
 uniquecaptcha.com
 perf-events.cloud.unity3d.com
@@ -134416,6 +134438,7 @@ trace.events
 fbpixel.network.exchange
 sessions.exchange
 jshosting.faith
+analysis.fi
 insight.fonecta.fi
 gallupnet.fi
 kavijaseuranta.fi
@@ -136417,7 +136440,6 @@ caraphene.xyz
 cdnanalytics.xyz
 daelynn.xyz
 bleua.ecefibwja.xyz
-erxalim.xyz
 fdxstats.xyz
 hivps.xyz
 ian.xyz
@@ -136548,7 +136570,7 @@ moviefox.us
 
 ########## Blacklist from https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt ##########
 
-# Ignored duplicates: 2875
+# Ignored duplicates: 2882
 
 easy.eu.ai
 poland.fizzyslim.biz
@@ -136878,6 +136900,7 @@ viewerfb.glt.pl
 www.grupadsa.pl
 www.gryjava.gsm.pl
 hd.serial.h2g.pl
+socialbump.hekko24.pl
 www.herbalife.pl
 www.hollisterskleponline.pl
 generatorkodow.hpu.pl
